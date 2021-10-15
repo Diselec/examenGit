@@ -5,7 +5,7 @@
 
 *Crear una issue*
 
-![image info](examenGit/22img/issue.PNG)
+![image info](22img/issue.PNG)
 
 *Crear una rama*
 
