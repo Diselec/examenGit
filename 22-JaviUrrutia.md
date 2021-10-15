@@ -3,11 +3,11 @@
 ##En Github:
 *Crear repositorio*
 
-![image info](22img/repo.PNG)
+![image info](22img/repo.png)
 
 *Crear un fork*
 
-![image info](22img/fork.PNG)
+![image info](22img/fork.png)
 
 ##De Github a local:
 Para descargar el repositorio que queremos, tenemos que usar el comando git clone:
