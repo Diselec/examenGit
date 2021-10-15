@@ -24,6 +24,14 @@ Para descargar el repositorio que queremos, tenemos que usar el comando git clon
 
 ![image info](22img/rama.PNG)
 
+*Guardar con commit*
+
+![image info](22img/commit.png)
+
+*Hacer un push*
+
+![image info](22img/commit.png)
+
 *Confirmar los cambios*
 
 ![image info](22img/cambios.PNG)
