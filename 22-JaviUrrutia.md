@@ -5,4 +5,11 @@
 
 *Crear una issue*
 
-![image info](/pictures/issue.png)
+![image info](22img\issue.PNG)
+
+*Crear una rama*
+
+![image info](22img\rama.PNG)
+
+*confirmar los cambios*
+
