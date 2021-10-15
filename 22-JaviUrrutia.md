@@ -9,7 +9,7 @@
 
 *Crear una rama*
 
-![image info](examenGit/22img/rama.PNG)
+![image info](22img/rama.PNG)
 
 *confirmar los cambios*
 
