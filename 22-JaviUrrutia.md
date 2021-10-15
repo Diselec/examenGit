@@ -5,11 +5,11 @@
 
 *Crear una issue*
 
-![image info](22img\issue.PNG)
+![image info](examenGit\issue.PNG)
 
 *Crear una rama*
 
-![image info](22img\rama.PNG)
+![image info](examenGit\rama.PNG)
 
 *confirmar los cambios*
 
