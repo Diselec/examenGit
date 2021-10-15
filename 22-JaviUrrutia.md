@@ -9,7 +9,8 @@
 
 *Crear una rama*
 
-![image info](22img/rama.PNG)
+![image info](2img/rama.PNG)
 
-*confirmar los cambios*
+*Confirmar los cambios*
 
+![image info](22img/cambios.PNG)
