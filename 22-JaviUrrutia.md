@@ -35,3 +35,5 @@ Para descargar el repositorio que queremos, tenemos que usar el comando git clon
 *Confirmar los cambios*
 
 ![image info](22img/cambios.PNG)
+
+Y luego faltaria hacer el pull request.
